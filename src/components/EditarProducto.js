@@ -6,7 +6,7 @@ const EditarProducto = () => {
            <div className='col-md-8'>
                <div className='card-body'>
                    <h2 className='text-center mb-4 font-weight-bold'>
-                       Editar Nuevo Producto
+                       Editar Producto
                    </h2>
                    <form>
                        <div className='form-group'>
