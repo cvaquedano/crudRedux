@@ -1,9 +1,9 @@
 {
   "productos": [
     {
-      "nombre": "Jugo de Naranja",
-      "precio": "300",
-      "id": 3
+      "id": 3,
+      "nombre": "Config BD1",
+      "precio": "3"
     },
     {
       "nombre": "Rib Eye 800g",
