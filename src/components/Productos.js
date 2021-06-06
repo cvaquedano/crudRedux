@@ -18,7 +18,7 @@ const Productos = () => {
         const cargarProductors = () => dispatch(obtenerProductosAction());
 
         cargarProductors();
-
+        // eslint-disable-next-line
     },[])
     return (
        <Fragment>
